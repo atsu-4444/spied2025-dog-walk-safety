@@ -2,7 +2,7 @@
   "name": "spied2025-dog-walk-safety",
   "version": "1.0.0",
   "private": true,
-  "license": "0BSD",
+  "license": "MIT",
   "main": "index.ts",
   "scripts": {
     "start": "expo start",
